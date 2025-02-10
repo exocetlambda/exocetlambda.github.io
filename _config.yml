@@ -2,3 +2,5 @@ theme: jekyll-theme-hacker
 markdown: GFM
 title: The Chicken Cult
 description: AI is growing exponentially. Humanity might be doomed... but not everything is lost yet.
+plugins:
+  - jekyll-feed
